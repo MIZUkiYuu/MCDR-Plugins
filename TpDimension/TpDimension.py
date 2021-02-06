@@ -1,5 +1,13 @@
 from mcdreforged.api.all import *
 
+PLUGIN_METADATA = {
+    "id": "tp_dimension",
+    "version": "1.0.0",
+    "name": "a plugin to teleport between dimensions",
+    "author": "MIZUkiYuu",
+    "link": "https://github.com/MIZUkiYuu/MCDR-Plugins/tree/main/TpDimension",
+}
+
 OVERWORLD = "overworld"
 NETHER = "the_nether"
 END = "the_end"
